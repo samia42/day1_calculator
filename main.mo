@@ -32,6 +32,7 @@ actor Calculator {
   // Step 6 - Implement reset
   public func reset() : async () {
     counter := 0;
+
   };
 
   // Step 7 - Implement query
